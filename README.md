@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Kacper</h1>
-- 🌱 I’m currently learning **Docker, Jenkins (DevOps in general)**
+- 🌱 I’m currently learning Docker, Jenkins (DevOps in general)
 
-- 📫 How to reach me **kayzn29@gmail.com**
+- 📫 How to reach me kayzn29@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
