@@ -1,6 +1,5 @@
 <h1 align="center">Hello, I'm Kacper</h1>
 - 🌱 I’m currently learning Docker, Jenkins and NGINX (DevOps in general)
-
 - 📫 How to reach me kayzn29@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
