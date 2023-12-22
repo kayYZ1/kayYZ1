@@ -1,4 +1,4 @@
-<h1 align="center">Hellow</h1>
+<h1 align="center">Hello</h1>
 - 📫 How to reach me kayzn29@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
