@@ -1,23 +1,5 @@
 <h1 align="left">Hello</h1>
 
-###
-
-<p align="left">My name is Kacper and i am an aspiring web developer studying Computer Science at Opole University of Technology in Poland.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2019<br>📚 I mostly work with React, Redux and TypeScript.<br>📚 I'm currently learning more of NestJS and Angular.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
