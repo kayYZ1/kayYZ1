@@ -8,4 +8,4 @@
   <a href="https://bsky.app/profile/kayzv1.bsky.social" style="color:gray; font-size:18px; text-decoration:none;">Bluesky</a>
 </p>
 
-My name is Kacper and i'm aspiring software dev living in Poland. I mainly work with TypeScript, Python, Golang and frontend frameworks/libraries such as React, Angular, NextJS or Remix
+My name is Kacper and i'm aspiring software dev living in Poland. I mainly work with TypeScript, Python, Golang and frontend frameworks/libraries such as React, Angular, Next.js or Remix
