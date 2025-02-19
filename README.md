@@ -9,3 +9,5 @@
 </p>
 
 My name is Kacper and i'm aspiring software dev living in Poland. I mainly work with TypeScript, Python, Golang and frontend frameworks/libraries such as React, Angular, Next.js or Remix
+
+I'm currently learning nix
